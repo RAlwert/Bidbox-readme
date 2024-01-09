@@ -1,0 +1,1 @@
+Bidbox is a simple app for creating and sharing tenders offers and workorders between the user and its clients, with a simple solution for a problem were notes dissapear befor the tender is completed Bidbox is the solution
